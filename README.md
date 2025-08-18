@@ -21,7 +21,6 @@ E-Cinema Booking is a comprehensive online platform that allows users to browse 
 - Seat map management
 - Pricing and promotion management
 - User management
-- Sales and analytics reporting
 
 ## 🛠️ Technologies Used
 
@@ -150,23 +149,6 @@ We welcome contributions to enhance the E-Cinema Booking System! Please follow t
 5. Open a Pull Request
 
 Please make sure to update tests as appropriate and adhere to the code style guidelines.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📊 Project Status
-
-The project is currently in active development. We're working on enhancing the user experience and adding more features.
-
-## 🔮 Future Enhancements
-
-- Mobile application for iOS and Android
-- Integration with social media platforms
-- AI-powered movie recommendations
-- Virtual reality theater previews
-- Subscription-based membership options
-- Multi-language support
 
 
 ---
